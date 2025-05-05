@@ -626,9 +626,9 @@ button:active {
   background-color: $secondaryColor;
   text-transform: uppercase;
   text-align: center;
-  border-top-left-radius: 0.25vh;
-  border-top-right-radius: 0.25vh;
-  border-radius: 15%;
+  border-top-left-radius:15%;
+  border-top-right-radius: 15%;
+  
   font-family: $mainFont;
   p {
     font-size: 11px;
