@@ -623,11 +623,11 @@ button:active {
 .item-notification-action-box {
   width: 100%;
   color: $textColor;
-  background-color: $secondaryColor;
+  background-color: transparent;
   text-transform: uppercase;
   text-align: center;
-  border-top-left-radius:35%;
-  border-top-right-radius: 35%;
+/*   border-top-left-radius:35%;
+  border-top-right-radius: 35%; */
   
   font-family: $mainFont;
   p {
